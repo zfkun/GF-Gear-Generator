@@ -1,18 +1,16 @@
 # GF-Gear-Generator
-Main repo of the GF Gear Generator for Autodesk's Fusion 360.
+亲爱的读者：
 
-Dear reader,
+我很高兴能与您分享我最早的编程项目之一。当我踏上学习编程的旅程时，我投入了大量的时间和精力在这个项目上，它在我心中占据着特殊的位置。虽然代码质量可能不是最优的，但投入其中的努力和真挚的关怀是无可否认的。
 
-I am excited to share one of my earliest programming projects with you. When I embarked on this journey of learning programming, I poured my time and dedication into this project, which holds a special place in my heart. While the code quality may not be the best, the effort and genuine care invested in it are undeniable.
+截至 2023 年 5 月 17 日，我已决定将这个项目作为开源项目发布。我的目标是邀请社区共同贡献并进一步完善它，使其成为一项惠及众人的协作成果。
 
-As of 17/05/2023, I have made the decision to release this project as an open-source endeavor. My aim is to invite the community to contribute and enhance it further, making it a collaborative effort that benefits everyone.
+我坚信，通过开放这个项目，我们能够共同改进和优化它。
 
-I truly believe that by opening up this project, we can collectively improve and refine it.
+感谢您与我一同踏上这段旅程，我期待着共同见证这个项目的成长与发展。
 
-Thank you for joining me on this journey, and I look forward to witnessing the growth and evolution of this project together.
+*********************************************** 29/06/2023 更新 ************************************************
 
-*********************************************** 29/06/2023 Updates ************************************************
-
-The GFGG is about to undergo some great code quality improvements as it will follow the OOP structure I'm using for STLGears.com . To understand what will be changed I've added the UML diagram bellow so you can get an idea of the stuff that's to come:
+GFGG 即将迎来一些重大的代码质量提升，因为它将采用我在STLGears.com中使用的面向对象编程（OOP）结构。为了让大家了解将会发生哪些变化，我在下面添加了 UML 图，以便你们对即将到来的内容有个大致的概念：
 
 ![UML Diagram](./UML_Diagram.png)
